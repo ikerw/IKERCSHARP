@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{967784A7-6316-44EE-BDAB-A90CD85C9CF7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShapeCalculator/Program.cs">
+    <Files>
+      <File FileName="../Calculator/Calculator/Program.cs" Line="111" Column="3" />
+      <File FileName="ShapeCalculator/Program.cs" Line="21" Column="3" />
+      <File FileName="ShapeCalculator/ShapeAreaCalculator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShapeCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

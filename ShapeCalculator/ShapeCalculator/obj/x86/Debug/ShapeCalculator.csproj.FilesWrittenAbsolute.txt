@@ -1,0 +1,5 @@
+/Users/IkerWang/Projects/ShapeCalculator/ShapeCalculator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/IkerWang/Projects/ShapeCalculator/ShapeCalculator/bin/Debug/ShapeCalculator.exe.mdb
+/Users/IkerWang/Projects/ShapeCalculator/ShapeCalculator/bin/Debug/ShapeCalculator.exe
+/Users/IkerWang/Projects/ShapeCalculator/ShapeCalculator/obj/x86/Debug/ShapeCalculator.exe
+/Users/IkerWang/Projects/ShapeCalculator/ShapeCalculator/obj/x86/Debug/ShapeCalculator.exe.mdb
