@@ -1,0 +1,5 @@
+/Users/IkerWang/Projects/homework20170114/homework20170114/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/IkerWang/Projects/homework20170114/homework20170114/bin/Debug/homework20170114.exe.mdb
+/Users/IkerWang/Projects/homework20170114/homework20170114/bin/Debug/homework20170114.exe
+/Users/IkerWang/Projects/homework20170114/homework20170114/obj/x86/Debug/homework20170114.exe
+/Users/IkerWang/Projects/homework20170114/homework20170114/obj/x86/Debug/homework20170114.exe.mdb
