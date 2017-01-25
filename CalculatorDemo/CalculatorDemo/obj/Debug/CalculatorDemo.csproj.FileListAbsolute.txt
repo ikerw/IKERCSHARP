@@ -1,0 +1,9 @@
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.exe.config
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.exe
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.pdb
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csprojResolveAssemblyReference.cache
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.Form1.resources
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.Properties.Resources.resources
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.GenerateResource.Cache
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.exe
+c:\users\iker_w\documents\visual studio 2015\Projects\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.pdb
