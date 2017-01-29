@@ -1,0 +1,9 @@
+c:\users\iker_w\documents\visual studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\bin\Debug\Tick_Tac_Toe.exe.config
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\bin\Debug\Tick_Tac_Toe.exe
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\bin\Debug\Tick_Tac_Toe.pdb
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\obj\Debug\Tick_Tac_Toe.csprojResolveAssemblyReference.cache
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\obj\Debug\Tick_Tac_Toe.Form1.resources
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\obj\Debug\Tick_Tac_Toe.Properties.Resources.resources
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\obj\Debug\Tick_Tac_Toe.csproj.GenerateResource.Cache
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\obj\Debug\Tick_Tac_Toe.exe
+C:\Users\Iker_W\Documents\Visual Studio 2015\Projects\Tick_Tac_Toe\Tick_Tac_Toe\obj\Debug\Tick_Tac_Toe.pdb
